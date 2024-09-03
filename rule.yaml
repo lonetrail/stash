@@ -6,3 +6,5 @@ rules:
   - 'DOMAIN-SUFFIX,cloudfront.net,ChatGPT'
   - 'DOMAIN,cdn.cookielaw.org,ChatGPT'
   - 'DOMAIN-KEYWORD,github,节点选择'
+  - 'DOMAIN-SUFFIX,githubusercontent.com,节点选择'
+  
