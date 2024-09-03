@@ -3,3 +3,4 @@ name: custom rules
 rules:
   - 'DOMAIN-KEYWORD,v2ex,ChatGPT'
   - 'DOMAIN,hub.docker.com,节点选择'
+  - 'DOMAIN-SUFFIX,cloudfront.net,节点选择'
