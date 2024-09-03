@@ -1,7 +1,7 @@
 name: custom rules
  
 rules:
-  - 'DOMAIN-KEYWORD,v2ex,ChatGPT'
+  - 'DOMAIN-KEYWORD,v2ex,节点选择'
   - 'DOMAIN,hub.docker.com,节点选择'
   - 'DOMAIN-SUFFIX,cloudfront.net,ChatGPT'
   - 'DOMAIN,cdn.cookielaw.org,ChatGPT'
