@@ -8,4 +8,18 @@ rules:
   - 'DOMAIN-KEYWORD,github,节点选择'
   - 'DOMAIN-SUFFIX,githubusercontent.com,节点选择'
   - 'DOMAIN,dl.google.com,DIRECT'
+  # gemini
+  - 'DOMAIN,ai.google.dev,ChatGPT'
+  - 'DOMAIN,alkalimakersuite-pa.clients6.google.com,ChatGPT'
+  - 'DOMAIN,makersuite.google.com,ChatGPT'
+  - 'DOMAIN-SUFFIX,bard.google.com,ChatGPT'
+  - 'DOMAIN-SUFFIX,deepmind.com,ChatGPT'
+  - 'DOMAIN-SUFFIX,deepmind.google,ChatGPT'
+  - 'DOMAIN-SUFFIX,gemini.google.com,ChatGPT'
+  - 'DOMAIN-SUFFIX,generativeai.google,ChatGPT'
+  - 'DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,ChatGPT'
+  - 'DOMAIN-SUFFIX,apis.google.com,ChatGPT'
+  - 'DOMAIN-KEYWORD,colab,ChatGPT'
+  - 'DOMAIN-KEYWORD,developerprofiles,ChatGPT'
+  - 'DOMAIN-KEYWORD,generativelanguage,ChatGPT'
   
