@@ -8,4 +8,5 @@ rules:
   - 'DOMAIN-KEYWORD,github,节点选择'
   - 'DOMAIN-SUFFIX,githubusercontent.com,节点选择'
   - 'DOMAIN,dl.google.com,DIRECT'
-  
+  - 'DOMAIN-SUFFIX,termius.com,DIRECT'
+ 
