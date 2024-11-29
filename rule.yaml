@@ -9,4 +9,4 @@ rules:
   - 'DOMAIN-SUFFIX,githubusercontent.com,节点选择'
   - 'DOMAIN,dl.google.com,DIRECT'
   - 'DOMAIN-SUFFIX,termius.com,DIRECT'
- 
+  - 'DOMIAN-SUFFIX,icloud.com,苹果服务'
